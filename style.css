@@ -59,7 +59,16 @@ padding: 1%;
 border: 1px solid #ddd;
 width: 90%;
 }
-
+.foot{
+	box-shadow: 2px 2px 2px 2px;
+	background: #fff;
+	padding: 2%;
+	margin: 2%;
+	max-width: 100%;
+	text-align: center;
+	color: #2D0242;
+	font-size: 20px;
+}
 }
 @media only screen and (min-device-width:481px) and (max-device-width:768px){
 	.flexparent{
@@ -74,7 +83,16 @@ padding: 1%;
 border: 1px solid #ddd;
 width: 90%;
 }
-	
+.foot{
+	box-shadow: 2px 2px 2px 2px;
+	background: #fff;
+	padding: 2%;
+	margin: 2%;
+	max-width: 100%;
+	text-align: center;
+	color: #2D0242;
+	font-size: 20px;
+}	
 }
 @media only screen and (min-device-width:769px) and (max-device-width:1024px){
 	.flexparent{
@@ -89,5 +107,14 @@ padding: 1%;
 border: 1px solid #ddd;
 width: 90%;
 }
-	
+.foot{
+	box-shadow: 2px 2px 2px 2px;
+	background: #fff;
+	padding: 2%;
+	margin: 2%;
+	max-width: 100%;
+	text-align: center;
+	color: #2D0242;
+	font-size: 20px;
+}	
 }
