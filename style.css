@@ -2,15 +2,20 @@ body{
 	padding:2%;
 }
 .flexparent{
-	display: flex;
+display: flex;
 flex-direction: row;
 flex-wrap: wrap;
 justify-content:center;
+max-width: 100%;
 }
 .flexparent>div{
 margin:1%;
 padding: 1%;
 border: 1px solid #ddd;
+max-width: 100%;
+text-align: center;
+box-shadow: 2px 2px 2px 2px solid maroon;
+
 }
 img{
 	width: 200px;
@@ -34,6 +39,7 @@ h1{
 	padding: 2%;
 	width: 100%;
 	box-shadow:4px 4px 4px #ddd;
+	text-align: center;
 }
 .foot{
 	box-shadow: 2px 2px 2px 2px;
